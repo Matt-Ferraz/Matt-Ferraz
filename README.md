@@ -17,7 +17,7 @@
   <img align="center" alt="Mat-bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Mat-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Mat-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <!-- <img align="right" alt="Mat-pic" height="150" style="border-radius:50px;" src="?width=676&height=676"> --!>
+  <!-- <img align="right" alt="Mat-pic" height="150" style="border-radius:50px;" src="?width=676&height=676"> -->
 </div>
   
   ##
