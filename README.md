@@ -1,11 +1,7 @@
-# Hey 👋, welcome to my github's profile!
+# Hey there👋, welcome to my github's profile!
 
-### My stats on github
-<div align="center">
-  <a href="https://github.com/matt-ferraz">
-  <img src="https://github-readme-stats.vercel.app/api?username=matt-ferraz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-ferraz&layout=compact&langs_count=7&theme=dark"/>
-</div>
+## About me
+My name is Mateus Ferraz, im Brazilian and i was born in 2005. My passion for puzzles and math bring me to Software Development. My first programming language was C, lately i learned JavaScript and landed my first Software Developer in 2021. On my free time, i love playing around with new languages.
   
 ## Work experience
   
