@@ -2,7 +2,7 @@
 
 ## About me
 
-My name is Mateus Ferraz, im Brazilian and i was born in 2005. My passion for puzzles and math bring me to Software Development. My first programming language was C, lately i learned JavaScript and landed my first Software Developer in 2021. On my free time, i love playing around with new languages.
+I'm Mateus Ferraz, I was born in Brazil in 2005. My passion for puzzles and math bring me to Software Development. My first programming language was C, lately i learned JavaScript and landed my first Software Developer in 2021. On my free time, i love playing around with new languages.
   
 ## Work experience
   
