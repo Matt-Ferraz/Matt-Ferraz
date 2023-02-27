@@ -26,7 +26,12 @@ I'm Mateus Ferraz, I was born in Brazil in 2005. My passion for puzzles and math
   
 - <img align="center" alt="sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> MySQL, the main database used on our Apps.
 
-  
-![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matt-Ferraz&show_icons=true&theme=tokyonight)
+<br></br>
+
+<div align="center">
+  <a href="https://github.com/matt-ferraz">
+  <img width='45%' height="180em" src="https://github-readme-stats.vercel.app/api?username=matt-ferraz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width='45%' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-ferraz&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <!-- ### Later on the same company, i joint the [`Bigou`](https://apps.apple.com/br/app/bigou-delivery/id934641979)'s development team, the most successed Labcinco's App. -->
