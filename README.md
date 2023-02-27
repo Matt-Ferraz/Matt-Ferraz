@@ -30,8 +30,8 @@ I'm Mateus Ferraz, I was born in Brazil in 2005. My passion for puzzles and math
 
 <div align="center">
   <a href="https://github.com/matt-ferraz">
-  <img width='45%' height="180em" src="https://github-readme-stats.vercel.app/api?username=matt-ferraz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width='45%' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-ferraz&layout=compact&langs_count=7&theme=dark"/>
+  <img width='50%' height="240em" src="https://github-readme-stats.vercel.app/api?username=matt-ferraz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width='45%' height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-ferraz&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <!-- ### Later on the same company, i joint the [`Bigou`](https://apps.apple.com/br/app/bigou-delivery/id934641979)'s development team, the most successed Labcinco's App. -->
