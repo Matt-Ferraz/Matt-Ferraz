@@ -138,12 +138,6 @@ que só quebram em escala. Fora do expediente costuma ser um idioma novo, um alg
   width="72%"
 />
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Matt-Ferraz&bg_color=00000000&color=8B949E&line=38BDF8&point=E6EDF3&area=true&area_color=38BDF8&hide_border=true&custom_title=Commits%20over%20the%20last%2031%20days"
-  alt="Contribution activity graph"
-  width="96%"
-/>
-
 </div>
 
 <br/>
@@ -155,9 +149,9 @@ que só quebram em escala. Fora do expediente costuma ser um idioma novo, um alg
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matt-Ferraz/Matt-Ferraz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matt-Ferraz/Matt-Ferraz/output/github-snake.svg" />
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Matt-Ferraz/Matt-Ferraz/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matt-Ferraz/Matt-Ferraz/output/github-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matt-Ferraz/Matt-Ferraz/output/github-snake.svg?v=2" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Matt-Ferraz/Matt-Ferraz/output/github-snake.svg?v=2" width="100%" />
 </picture>
 
 </div>
