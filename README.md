@@ -10,7 +10,7 @@
 
 <a href="https://github.com/Matt-Ferraz">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&lines=Self-taught+since+15.;Five+years+shipping+to+real+users.;Messy+problems+%3E+tidy+ones."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&lines=Self-taught+since+15.;Five+years+shipping+to+real+users."
     alt="Typing intro"
   />
 </a>
