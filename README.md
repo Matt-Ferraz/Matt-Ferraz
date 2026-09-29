@@ -36,31 +36,21 @@
 
 ### `~` whoami
 
-I'm **Mateus** — born in Brazil in 2005, writing code professionally since I was fifteen.
-No bootcamp, no shortcut: puzzles and math pulled me in, C taught me patience, JavaScript paid the bills.
+I'm **Mateus**, born in Brazil in 2005, shipping production code since fifteen years old.
 
-Today I build **Unnichat** — an omnichannel messaging and CRM platform that
-has carried **800M+ conversations** and keeps **150k+ customer automations** alive. Front-end, back-end,
-and everything awkward in between.
-
-I like the problems that look calm on the surface and are a mess underneath — queues, state, the ten
-small things that only break at scale. Off-hours it's usually a new language, a strange algorithm, or coffee that's far too strong.
+Today I build **Unnichat**, an omnichannel messaging and CRM platform that
+has carried **1B+ conversations** and keeps **200k+ customer automations** alive. Front-end, back-end,
+and everything  in between.
 
 <details>
 <summary><b>🇧🇷 Em português</b></summary>
 
 <br/>
 
-Sou o **Mateus** — nascido no Brasil em 2005, programando profissionalmente desde os quinze anos.
-Sem bootcamp, sem atalho: quebra-cabeças e matemática me trouxeram até aqui, C me ensinou paciência,
-JavaScript pagou as contas.
+Sou o **Mateus**, nascido no Brasil em 2005, entregando código em prod desde meus quinze anos.
 
-Hoje eu construo a **Unnichat** — plataforma SaaS de atendimento omnichannel
-e CRM que já carregou **mais de 800 milhões de mensagens** e mantém **150 mil automações ativas**.
-Front, back, e tudo que é estranho no meio do caminho.
-
-Gosto dos problemas que parecem calmos por fora e são bagunça por dentro — filas, estado, as dez coisinhas
-que só quebram em escala. Fora do expediente costuma ser um idioma novo, um algoritmo esquisito, ou café forte demais.
+Hoje eu construo a **Unnichat**, plataforma SaaS de atendimento omnichannel
+e CRM que já carregou **mais de 1 BI de mensagens** e mantém **200 mil automações ativas**.
 
 </details>
 
@@ -162,7 +152,7 @@ que só quebram em escala. Fora do expediente costuma ser um idioma novo, um alg
 
 <div align="center">
 
-<sub><i>PT-BR native · English advanced · German, slowly and badly</i></sub>
+<sub><i>PT-BR native · English advanced · German, beginner</i></sub>
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer"
