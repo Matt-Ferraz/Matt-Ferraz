@@ -152,7 +152,7 @@ e CRM que já carregou **mais de 1 BI de mensagens** e mantém **200 mil automa�
 
 <div align="center">
 
-<sub><i>PT-BR native · English advanced · German, beginner</i></sub>
+<sub><i>PT-BR native · English advanced · German beginner</i></sub>
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer"
